@@ -2,4 +2,6 @@
 
 ### Prerequisite
 
-- #### Transactions
+### Reference
+
+- https://redis.com/redis-best-practices/basic-rate-limiting/
